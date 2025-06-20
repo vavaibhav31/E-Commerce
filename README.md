@@ -9,6 +9,7 @@ This project simulates a real-world, end-to-end E-Commerce Retail Business Analy
 - [About the Project](#about-the-project)
 - [Business Domains Covered](#business-domains-covered)
 - [Database Schema](#database-schema)
+- [Entity Relationship Diagram ](#Entity-Relationship-Diagram)
 - [Tools & Technologies](#tools--technologies)
 - [Key Stakeholder Insights](#key-stakeholder-insights)
 - [Query Bank Summary](#query-bank-summary)
@@ -30,20 +31,28 @@ This project simulates a real-world e-commerce analytics use case where SQL is u
 -  Customer Experience (Support & Feedback)
 
   #  Database Schema
+  The database is normalized and structured to represent a real-world e-commerce environment. Below is the list of all 14 core tables:
   
 | Table Name        | Description                           |
 |-------------------|----------------------------------------|
 | Orders            | Order-level data                       |
+| Order_Items       | Contains individual items within each order, linked to products|
 | Payments          | Transaction details                    |
 | Returns           | Returned items                         |
 | Products          | Product catalog                        |
+| Categories        | Classification of products into logical groupings|
 | Customers         | Buyer details                          |
 | Sellers           | Seller details                         |
 | Shipments         | Fulfillment and delivery tracking      |
 | Inventory         | Stock data                             |
 | Address           | Geolocation (with Region FK)           |
+| Regions           | Regional classifications (e.g., North, South)|
 | Product_Reviews   | Rating & textual feedback              |
 | Marketing_Campaigns | Promotion and campaign targeting     |
+
+### Entity Relationship Diagram
+
+![ER Diagram](schema/er_diagram.png)
 
 #  Tools & Technologies
 
