@@ -20,14 +20,14 @@ This project simulates a real-world e-commerce analytics use case where SQL is u
 
 # Business Domains Covered
 
-- 🧾 Finance & Profitability
-- 📦 Product Analytics
-- 👤 Customer Behavior & Churn
-- 📣 Marketing Campaign Performance
-- 🚚 Supply Chain & Fulfillment
-- 💬 Customer Experience (Support & Feedback)
+-  Finance & Profitability
+-  Product Analytics
+-  Customer Behavior & Churn
+-  Marketing Campaign Performance
+-  Supply Chain & Fulfillment
+-  Customer Experience (Support & Feedback)
 
-  # 🗺️ Database Schema
+  #  Database Schema
   
 | Table Name        | Description                           |
 |-------------------|----------------------------------------|
@@ -52,7 +52,7 @@ This project simulates a real-world e-commerce analytics use case where SQL is u
 
 #  Key Stakeholder Insights
 
-#### 📊 Finance
+####  Finance
 
 - **Monthly Revenue Tracking** helps the finance team spot seasonal trends and plan budgets.
 - **AOV by Region** reveals customer spending behavior across geographies, enabling smarter pricing.
@@ -62,7 +62,7 @@ This project simulates a real-world e-commerce analytics use case where SQL is u
 
 ---
 
-#### 📦 Product Analytics
+####  Product Analytics
 
 - **Top Reviewed Products** highlight items driving the most engagement.
 - **Average Rating by Category** helps product teams evaluate category-wise performance.
@@ -73,7 +73,7 @@ This project simulates a real-world e-commerce analytics use case where SQL is u
 
 ---
 
-#### 👥 Customer Analytics
+####  Customer Analytics
 
 - **Repeat vs One-time Customers** helps understand lifecycle and design better retention strategies.
 - **Inactive High-Spenders** can be targeted via reactivation campaigns or personalized offers.
@@ -83,7 +83,7 @@ This project simulates a real-world e-commerce analytics use case where SQL is u
 
 ---
 
-#### 📣 Marketing Campaign Performance
+####  Marketing Campaign Performance
 
 - **Top-Grossing Campaigns** support ROI tracking for marketing investment.
 - **AOV by Campaign** helps test effectiveness of premium vs discount-led messaging.
@@ -91,7 +91,7 @@ This project simulates a real-world e-commerce analytics use case where SQL is u
 
 ---
 
-#### 🚚 Supply Chain & Fulfillment
+####  Supply Chain & Fulfillment
 
 - **Avg Delivery Time by Region** assists logistics team in pinpointing delay-prone zones.
 - **Return Rate by Region** signals fulfillment or product issues localized to specific areas.
@@ -101,7 +101,7 @@ This project simulates a real-world e-commerce analytics use case where SQL is u
 
 ---
 
-#### 💬 Customer Experience
+####  Customer Experience
 
 - **Avg Seller Rating** is a vendor quality KPI tracked by the CX or Ops team.
 - **Support-Related Reviews** help CX teams quantify pain points like delays, damaged items, or bad packaging.
@@ -122,7 +122,7 @@ This project simulates a real-world e-commerce analytics use case where SQL is u
 
 #  Execution Summary
 
-### 📊 Summary Execution Table
+###  Summary Execution Table
 
 | Module                      | Difficulty   | Query Count | SQL Techniques Used                                |
 |----------------------------|--------------|-------------|----------------------------------------------------|
