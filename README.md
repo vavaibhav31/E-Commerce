@@ -1,7 +1,9 @@
-# E-Commerce Business Insights — SQL
+## E-Commerce Business Insights — SQL
 
 Delivering Actionable Analytics Across Finance, Product, Marketing, Supply Chain, and Customer Experience using Advanced SQL
+## Business Context
 
+This project simulates a real-world, end-to-end E-Commerce Retail Business Analytics case. The aim is to uncover actionable insights across multiple business verticals — including Finance, Product Strategy, Customer Retention, Marketing Campaign Performance, Supply Chain, and Customer Experience. The queries reflect realistic analytics problems and use production-grade SQL techniques to enable decision-making for stakeholders.
 ##  Table of Contents
 
 - [About the Project](#about-the-project)
