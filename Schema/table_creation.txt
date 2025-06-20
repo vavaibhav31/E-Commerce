@@ -1,0 +1,112 @@
+✅ Normalized E-Commerce Schema (14 Tables)
+1. Regions
+Region_ID INT PRIMARY KEY,
+Region_Name VARCHAR(100)
+
+2. Addresses
+Address_ID INT PRIMARY KEY,
+Street_Address VARCHAR(255),
+City VARCHAR(100),
+State VARCHAR(100),
+Postal_Code VARCHAR(20),
+Country VARCHAR(100),
+Region_ID INT FOREIGN KEY REFERENCES Regions(Region_ID)
+
+3. Customers
+Customer_ID INT PRIMARY KEY,
+First_Name VARCHAR(100),
+Last_Name VARCHAR(100),
+Email VARCHAR(150),
+Phone_Number VARCHAR(20),
+Gender CHAR(1),
+Date_Of_Birth DATE,
+Join_Date DATE,
+Address_ID INT FOREIGN KEY REFERENCES Addresses(Address_ID)
+
+4. Sellers
+Seller_ID INT PRIMARY KEY,
+Seller_Name VARCHAR(150),
+Email VARCHAR(150),
+Phone VARCHAR(20),
+Join_Date DATE,
+Address_ID INT FOREIGN KEY REFERENCES Addresses(Address_ID)
+
+5. Categories
+Category_ID INT PRIMARY KEY,
+Category_Name VARCHAR(100),
+Category_Description TEXT
+
+6. Products
+Product_ID INT PRIMARY KEY,
+Product_Name VARCHAR(150),
+Category_ID INT FOREIGN KEY REFERENCES Categories(Category_ID),
+Price DECIMAL(10,2),
+Cost DECIMAL(10,2),
+Stock_Quantity INT,
+Seller_ID INT FOREIGN KEY REFERENCES Sellers(Seller_ID)
+
+7. Inventory
+Inventory_ID INT PRIMARY KEY,
+Product_ID INT FOREIGN KEY REFERENCES Products(Product_ID),
+Stock_Level INT,
+Last_Updated DATETIME
+
+8. Orders
+Order_ID INT PRIMARY KEY,
+Customer_ID INT FOREIGN KEY REFERENCES Customers(Customer_ID),
+Order_Date DATETIME,
+Order_Status VARCHAR(50),
+Shipping_Address_ID INT FOREIGN KEY REFERENCES Addresses(Address_ID),
+Payment_Status VARCHAR(50)
+
+9. Order_Items
+Order_Item_ID INT PRIMARY KEY,
+Order_ID INT FOREIGN KEY REFERENCES Orders(Order_ID),
+Product_ID INT FOREIGN KEY REFERENCES Products(Product_ID),
+Quantity INT,
+Unit_Price DECIMAL(10,2),
+Total_Price AS (Quantity * Unit_Price) PERSISTED
+
+10. Payments
+Payment_ID INT PRIMARY KEY,
+Order_ID INT FOREIGN KEY REFERENCES Orders(Order_ID),
+Payment_Method VARCHAR(50),
+Amount DECIMAL(10,2),
+Payment_Date DATETIME,
+Payment_Status VARCHAR(50)
+
+11. Returns
+Return_ID INT PRIMARY KEY,
+Order_Item_ID INT FOREIGN KEY REFERENCES Order_Items(Order_Item_ID),
+Return_Reason TEXT,
+Return_Date DATE,
+Refund_Amount DECIMAL(10,2),
+Status VARCHAR(50)
+
+12. Shipments
+Shipment_ID INT PRIMARY KEY,
+Order_ID INT FOREIGN KEY REFERENCES Orders(Order_ID),
+Shipment_Date DATE,
+Delivery_Date DATE,
+Carrier VARCHAR(100),
+Tracking_Number VARCHAR(100),
+Shipment_Status VARCHAR(50)
+
+13. Product_Reviews
+Review_ID INT PRIMARY KEY,
+Product_ID INT FOREIGN KEY REFERENCES Products(Product_ID),
+Customer_ID INT FOREIGN KEY REFERENCES Customers(Customer_ID),
+Rating INT CHECK (Rating BETWEEN 1 AND 5),
+Review_Text TEXT,
+Review_Date DATE
+
+14. Marketing_Campaigns
+Campaign_ID INT PRIMARY KEY,
+Campaign_Name VARCHAR(100),
+Start_Date DATE,
+End_Date DATE,
+Channel VARCHAR(50),
+Target_Audience TEXT,
+Budget DECIMAL(10,2),
+Conversion_Rate DECIMAL(5,2),
+Product_ID INT FOREIGN KEY REFERENCES Products(Product_ID)

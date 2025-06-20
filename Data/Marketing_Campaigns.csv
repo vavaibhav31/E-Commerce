@@ -1,0 +1,101 @@
+Campaign_ID,Campaign_Name,Start_Date,End_Date,Channel,Target_Audience,Budget,Conversion_Rate,Product_ID
+1,India Campaign 1,2024-10-15,2025-06-18,Google Ads,Returning Users,83695.14,6.79,1644
+2,India Campaign 2,2025-01-02,2025-06-18,Facebook,High Spenders,335926.3,13.03,271
+3,India Campaign 3,2024-11-24,2025-06-18,WhatsApp,High Spenders,459660.23,12.39,231
+4,India Campaign 4,2025-01-11,2025-06-18,Google Ads,Returning Users,411132.75,3.61,1366
+5,India Campaign 5,2024-08-18,2025-06-18,WhatsApp,Returning Users,55267.32,13.05,1187
+6,India Campaign 6,2024-11-03,2025-06-18,Google Ads,Returning Users,188441.54,6.05,702
+7,India Campaign 7,2024-10-22,2025-06-18,WhatsApp,Returning Users,457085.23,0.61,1888
+8,India Campaign 8,2025-02-07,2025-06-18,WhatsApp,Returning Users,178045.32,2.2,1158
+9,India Campaign 9,2024-07-10,2025-06-18,Instagram,Tier-1 Cities,119298.55,2.38,1728
+10,India Campaign 10,2024-11-11,2025-06-18,WhatsApp,Returning Users,315301.37,8.91,1158
+11,India Campaign 11,2024-08-10,2025-06-18,Facebook,High Spenders,223944.45,6.98,835
+12,India Campaign 12,2025-03-26,2025-06-18,Instagram,Tier-1 Cities,114012.68,14.84,294
+13,India Campaign 13,2025-03-07,2025-06-18,Google Ads,Tier-1 Cities,398813.02,7.88,837
+14,India Campaign 14,2025-01-25,2025-06-18,Google Ads,Tier-1 Cities,275561.44,0.67,1487
+15,India Campaign 15,2025-05-05,2025-06-18,Google Ads,Tier-1 Cities,466851.6,6.19,552
+16,India Campaign 16,2025-05-10,2025-06-18,Facebook,High Spenders,193463.52,14.51,57
+17,India Campaign 17,2024-08-12,2025-06-18,WhatsApp,Returning Users,311076.74,6.63,615
+18,India Campaign 18,2025-02-13,2025-06-18,Google Ads,Tier-1 Cities,159807.58,6.63,1495
+19,India Campaign 19,2025-05-19,2025-06-18,Google Ads,High Spenders,160210.32,5.18,1732
+20,India Campaign 20,2025-04-19,2025-06-18,Facebook,Tier-1 Cities,292545.31,8.28,1870
+21,India Campaign 21,2025-03-23,2025-06-18,Facebook,High Spenders,303578.84,1.57,351
+22,India Campaign 22,2025-03-11,2025-06-18,Instagram,Returning Users,129833.18,13.23,114
+23,India Campaign 23,2024-10-06,2025-06-18,Instagram,Tier-1 Cities,84268.26,9.24,1395
+24,India Campaign 24,2025-03-13,2025-06-18,Facebook,Returning Users,89335.26,11.87,176
+25,India Campaign 25,2025-04-23,2025-06-18,Facebook,Returning Users,250974.02,3.02,378
+26,India Campaign 26,2024-09-05,2025-06-18,Google Ads,Tier-1 Cities,24913.56,1.48,30
+27,India Campaign 27,2024-10-22,2025-06-18,Facebook,Tier-1 Cities,415502.81,12.54,1596
+28,India Campaign 28,2024-08-03,2025-06-18,Instagram,Returning Users,133450.6,9.58,112
+29,India Campaign 29,2024-11-05,2025-06-18,Instagram,High Spenders,261669.76,7.3,213
+30,India Campaign 30,2024-11-03,2025-06-18,Instagram,Tier-1 Cities,461354.45,1.32,1909
+31,India Campaign 31,2025-01-02,2025-06-18,Instagram,Tier-1 Cities,114351.06,7.13,500
+32,India Campaign 32,2025-01-28,2025-06-18,Google Ads,Tier-1 Cities,239241.83,14.4,1981
+33,India Campaign 33,2024-09-06,2025-06-18,WhatsApp,Tier-1 Cities,478435.99,0.71,1598
+34,India Campaign 34,2024-11-15,2025-06-18,WhatsApp,High Spenders,90294.49,6.95,1990
+35,India Campaign 35,2025-01-20,2025-06-18,Facebook,Returning Users,125556.03,10.86,750
+36,India Campaign 36,2024-10-17,2025-06-18,Instagram,Returning Users,32436.32,12.65,1159
+37,India Campaign 37,2024-11-16,2025-06-18,WhatsApp,Tier-1 Cities,115883.37,12.03,1613
+38,India Campaign 38,2025-02-27,2025-06-18,WhatsApp,High Spenders,261921.17,13.12,1256
+39,India Campaign 39,2024-12-16,2025-06-18,Google Ads,Tier-1 Cities,201806.59,7.81,358
+40,India Campaign 40,2024-12-10,2025-06-18,Facebook,Tier-1 Cities,46437.31,4.33,41
+41,India Campaign 41,2024-12-24,2025-06-18,Facebook,Tier-1 Cities,103906.56,12.87,265
+42,India Campaign 42,2025-04-22,2025-06-18,Facebook,High Spenders,255940.52,13.74,1892
+43,India Campaign 43,2024-11-05,2025-06-18,WhatsApp,High Spenders,211502.26,14.17,1145
+44,India Campaign 44,2024-12-21,2025-06-18,WhatsApp,Returning Users,200817.31,4.72,912
+45,India Campaign 45,2024-07-19,2025-06-18,Google Ads,High Spenders,162180.7,7.78,1693
+46,India Campaign 46,2025-01-24,2025-06-18,Facebook,Tier-1 Cities,495529.46,11.64,288
+47,India Campaign 47,2024-08-29,2025-06-18,Facebook,Returning Users,328174.61,14.95,701
+48,India Campaign 48,2025-03-08,2025-06-18,Facebook,High Spenders,401599.37,12.5,333
+49,India Campaign 49,2024-11-29,2025-06-18,Instagram,High Spenders,263552.43,5.14,591
+50,India Campaign 50,2024-07-07,2025-06-18,WhatsApp,Tier-1 Cities,474234.42,13.65,208
+51,India Campaign 51,2025-01-10,2025-06-18,Google Ads,Returning Users,479289.89,2.1,118
+52,India Campaign 52,2024-12-21,2025-06-18,Google Ads,Tier-1 Cities,89770.18,4.66,309
+53,India Campaign 53,2024-12-16,2025-06-18,Facebook,Returning Users,180310.42,4.54,1086
+54,India Campaign 54,2025-05-19,2025-06-18,Facebook,High Spenders,471597.67,14.65,243
+55,India Campaign 55,2025-05-12,2025-06-18,Google Ads,Tier-1 Cities,90839.49,7.02,960
+56,India Campaign 56,2025-02-14,2025-06-18,Google Ads,Returning Users,83042.7,6.67,216
+57,India Campaign 57,2024-09-06,2025-06-18,Google Ads,Returning Users,470728.61,6.83,355
+58,India Campaign 58,2024-10-19,2025-06-18,Facebook,Tier-1 Cities,318973.33,7.95,58
+59,India Campaign 59,2025-03-23,2025-06-18,Google Ads,Tier-1 Cities,225855.48,1.53,1555
+60,India Campaign 60,2024-07-29,2025-06-18,Google Ads,High Spenders,139992.72,6.24,1496
+61,India Campaign 61,2024-12-17,2025-06-18,WhatsApp,High Spenders,317623.35,14.2,1957
+62,India Campaign 62,2024-10-26,2025-06-18,WhatsApp,Returning Users,467760.9,12.93,154
+63,India Campaign 63,2024-08-21,2025-06-18,WhatsApp,Returning Users,415962.06,13.92,1592
+64,India Campaign 64,2025-02-11,2025-06-18,Instagram,Returning Users,243172.46,7.91,899
+65,India Campaign 65,2025-01-14,2025-06-18,Facebook,Returning Users,461867.6,9.79,1696
+66,India Campaign 66,2025-05-18,2025-06-18,Google Ads,Tier-1 Cities,422212.48,1.53,1979
+67,India Campaign 67,2024-09-30,2025-06-18,WhatsApp,High Spenders,465648.98,1.42,1117
+68,India Campaign 68,2024-11-15,2025-06-18,WhatsApp,Tier-1 Cities,494289.96,3.16,1060
+69,India Campaign 69,2025-03-07,2025-06-18,WhatsApp,High Spenders,208392.19,8.56,1616
+70,India Campaign 70,2025-02-11,2025-06-18,Google Ads,High Spenders,294592.45,8.17,1385
+71,India Campaign 71,2025-05-13,2025-06-18,Instagram,High Spenders,299862.0,5.35,1057
+72,India Campaign 72,2024-07-17,2025-06-18,WhatsApp,High Spenders,154895.26,0.62,580
+73,India Campaign 73,2025-04-10,2025-06-18,Google Ads,High Spenders,497007.88,3.34,934
+74,India Campaign 74,2025-05-30,2025-06-18,Facebook,Returning Users,492801.48,3.86,1562
+75,India Campaign 75,2024-10-31,2025-06-18,Google Ads,Tier-1 Cities,40788.14,1.48,1835
+76,India Campaign 76,2024-08-20,2025-06-18,Google Ads,Returning Users,386356.19,0.52,642
+77,India Campaign 77,2025-05-25,2025-06-18,Instagram,Tier-1 Cities,257155.97,4.94,1224
+78,India Campaign 78,2024-11-26,2025-06-18,Google Ads,Tier-1 Cities,148270.18,9.79,815
+79,India Campaign 79,2024-10-10,2025-06-18,Google Ads,High Spenders,54539.56,1.33,1266
+80,India Campaign 80,2024-07-20,2025-06-18,Google Ads,High Spenders,44341.05,10.68,488
+81,India Campaign 81,2025-03-20,2025-06-18,Facebook,Tier-1 Cities,417988.03,7.96,1643
+82,India Campaign 82,2025-04-06,2025-06-18,WhatsApp,Tier-1 Cities,79982.51,11.58,1824
+83,India Campaign 83,2024-11-25,2025-06-18,Instagram,High Spenders,414652.68,7.46,1945
+84,India Campaign 84,2024-12-04,2025-06-18,Facebook,Tier-1 Cities,440386.56,3.86,397
+85,India Campaign 85,2025-04-17,2025-06-18,Facebook,High Spenders,327596.59,5.62,991
+86,India Campaign 86,2024-11-13,2025-06-18,Facebook,Tier-1 Cities,170489.06,6.88,1604
+87,India Campaign 87,2024-09-24,2025-06-18,Facebook,High Spenders,267922.33,5.47,492
+88,India Campaign 88,2025-02-15,2025-06-18,WhatsApp,Tier-1 Cities,75098.35,0.58,404
+89,India Campaign 89,2025-02-25,2025-06-18,Google Ads,Returning Users,342169.74,8.04,114
+90,India Campaign 90,2024-08-16,2025-06-18,WhatsApp,Returning Users,362240.25,1.22,1438
+91,India Campaign 91,2024-09-18,2025-06-18,Google Ads,High Spenders,434165.91,11.9,24
+92,India Campaign 92,2025-03-09,2025-06-18,Instagram,Returning Users,156925.9,10.65,750
+93,India Campaign 93,2024-09-29,2025-06-18,WhatsApp,Returning Users,296092.84,10.44,477
+94,India Campaign 94,2025-01-10,2025-06-18,WhatsApp,High Spenders,118306.36,12.14,682
+95,India Campaign 95,2024-07-20,2025-06-18,Google Ads,Tier-1 Cities,331254.04,2.44,1665
+96,India Campaign 96,2025-01-24,2025-06-18,Google Ads,High Spenders,273781.84,7.12,1128
+97,India Campaign 97,2024-06-19,2025-06-18,Facebook,Returning Users,254876.15,7.66,44
+98,India Campaign 98,2024-09-23,2025-06-18,Instagram,Tier-1 Cities,337758.61,8.2,1349
+99,India Campaign 99,2025-02-06,2025-06-18,Instagram,Tier-1 Cities,146273.63,2.84,1638
+100,India Campaign 100,2024-07-21,2025-06-18,WhatsApp,Returning Users,415131.94,5.6,1024

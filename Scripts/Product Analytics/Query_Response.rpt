@@ -1,0 +1,597 @@
+﻿product_name                                       review_count
+-------------------------------------------------- ------------
+Quos Product                                       41
+Explicabo Product                                  33
+Dolor Product                                      29
+Distinctio Product                                 28
+Corporis Product                                   28
+Nemo Product                                       27
+Quidem Product                                     27
+Qui Product                                        27
+Sequi Product                                      27
+Eos Product                                        27
+Magnam Product                                     27
+Quam Product                                       26
+Est Product                                        26
+Rerum Product                                      26
+Doloremque Product                                 25
+Amet Product                                       25
+Eligendi Product                                   25
+Quia Product                                       25
+Quae Product                                       25
+Facilis Product                                    25
+Accusantium Product                                24
+Dicta Product                                      24
+Excepturi Product                                  24
+Fugiat Product                                     24
+Nihil Product                                      24
+Expedita Product                                   24
+Esse Product                                       23
+Cum Product                                        23
+Placeat Product                                    23
+Facere Product                                     23
+Aliquid Product                                    23
+Ratione Product                                    23
+Cupiditate Product                                 23
+Aperiam Product                                    23
+Delectus Product                                   22
+Error Product                                      22
+Pariatur Product                                   22
+Id Product                                         22
+Sunt Product                                       22
+Dignissimos Product                                22
+Tempore Product                                    22
+Doloribus Product                                  22
+Totam Product                                      21
+Eum Product                                        21
+Nostrum Product                                    21
+Recusandae Product                                 21
+Neque Product                                      21
+Illo Product                                       21
+Eaque Product                                      21
+Adipisci Product                                   20
+Laborum Product                                    20
+Nobis Product                                      20
+Itaque Product                                     20
+Soluta Product                                     20
+Necessitatibus Product                             20
+Ex Product                                         20
+Fuga Product                                       20
+Ad Product                                         19
+Perferendis Product                                19
+Ipsam Product                                      19
+Aliquam Product                                    19
+Quo Product                                        19
+Numquam Product                                    19
+Similique Product                                  19
+Voluptas Product                                   19
+Laudantium Product                                 18
+Omnis Product                                      18
+Hic Product                                        18
+Dolore Product                                     18
+Tempora Product                                    18
+Possimus Product                                   18
+Mollitia Product                                   18
+Exercitationem Product                             18
+Rem Product                                        18
+Vero Product                                       18
+Ipsum Product                                      18
+Ullam Product                                      18
+Tenetur Product                                    18
+Minima Product                                     17
+Accusamus Product                                  17
+Molestias Product                                  17
+Magni Product                                      17
+Repellendus Product                                17
+Quaerat Product                                    17
+Officiis Product                                   17
+Et Product                                         17
+Inventore Product                                  17
+Voluptatibus Product                               16
+Quisquam Product                                   16
+Odio Product                                       16
+Ipsa Product                                       16
+Optio Product                                      16
+Occaecati Product                                  16
+In Product                                         16
+Non Product                                        16
+Veritatis Product                                  15
+Enim Product                                       15
+Reiciendis Product                                 15
+Sapiente Product                                   15
+Quod Product                                       15
+Perspiciatis Product                               15
+Assumenda Product                                  15
+Nam Product                                        15
+Aspernatur Product                                 15
+Ab Product                                         15
+Eius Product                                       15
+Nulla Product                                      14
+Saepe Product                                      14
+Quis Product                                       14
+Suscipit Product                                   14
+Libero Product                                     14
+Provident Product                                  14
+Ut Product                                         14
+Voluptatem Product                                 14
+Veniam Product                                     14
+Natus Product                                      14
+Repudiandae Product                                14
+Cumque Product                                     13
+Iure Product                                       13
+Debitis Product                                    13
+Modi Product                                       13
+Aut Product                                        13
+Sed Product                                        13
+Commodi Product                                    13
+Autem Product                                      13
+Nesciunt Product                                   13
+Temporibus Product                                 13
+Ducimus Product                                    13
+Consequatur Product                                13
+Eveniet Product                                    13
+Praesentium Product                                13
+Voluptates Product                                 13
+Culpa Product                                      12
+Sint Product                                       12
+Ea Product                                         12
+Porro Product                                      12
+Vel Product                                        12
+Corrupti Product                                   12
+Maiores Product                                    12
+Earum Product                                      12
+Quasi Product                                      12
+Consequuntur Product                               11
+Quibusdam Product                                  11
+Velit Product                                      11
+Repellat Product                                   11
+Officia Product                                    11
+Alias Product                                      11
+Incidunt Product                                   11
+Unde Product                                       11
+Fugit Product                                      10
+A Product                                          10
+Deleniti Product                                   10
+Vitae Product                                      10
+Consectetur Product                                10
+Dolorem Product                                    10
+Asperiores Product                                 10
+At Product                                         10
+Voluptatum Product                                 10
+Dolores Product                                    9
+Architecto Product                                 9
+Odit Product                                       9
+Molestiae Product                                  9
+Animi Product                                      9
+Illum Product                                      9
+Quas Product                                       9
+Minus Product                                      9
+Laboriosam Product                                 9
+Nisi Product                                       9
+Iusto Product                                      9
+Deserunt Product                                   8
+Sit Product                                        8
+Atque Product                                      7
+Impedit Product                                    7
+Labore Product                                     7
+Maxime Product                                     6
+Dolorum Product                                    6
+Iste Product                                       5
+Harum Product                                      5
+Blanditiis Product                                 4
+Voluptate Product                                  4
+Reprehenderit Product                              4
+Beatae Product                                     2
+
+(182 rows affected)
+
+category_name                                      avg_rating
+-------------------------------------------------- -----------
+Mobile Phones                                      3
+Men's Clothing                                     2
+Laptops & Accessories                              2
+Books & Stationery                                 3
+Kitchen & Dining                                   3
+Home Appliances                                    3
+Toys & Baby Products                               2
+Groceries                                          3
+Women's Clothing                                   3
+Beauty & Personal Care                             3
+
+(10 rows affected)
+
+month                                                                                                                                                                                                                                                            reviews
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------
+2023-06                                                                                                                                                                                                                                                          50
+2023-07                                                                                                                                                                                                                                                          112
+2023-08                                                                                                                                                                                                                                                          135
+2023-09                                                                                                                                                                                                                                                          120
+2023-10                                                                                                                                                                                                                                                          130
+2023-11                                                                                                                                                                                                                                                          114
+2023-12                                                                                                                                                                                                                                                          132
+2024-01                                                                                                                                                                                                                                                          163
+2024-02                                                                                                                                                                                                                                                          119
+2024-03                                                                                                                                                                                                                                                          130
+2024-04                                                                                                                                                                                                                                                          108
+2024-05                                                                                                                                                                                                                                                          134
+2024-06                                                                                                                                                                                                                                                          112
+2024-07                                                                                                                                                                                                                                                          127
+2024-08                                                                                                                                                                                                                                                          115
+2024-09                                                                                                                                                                                                                                                          146
+2024-10                                                                                                                                                                                                                                                          143
+2024-11                                                                                                                                                                                                                                                          115
+2024-12                                                                                                                                                                                                                                                          125
+2025-01                                                                                                                                                                                                                                                          116
+2025-02                                                                                                                                                                                                                                                          109
+2025-03                                                                                                                                                                                                                                                          131
+2025-04                                                                                                                                                                                                                                                          121
+2025-05                                                                                                                                                                                                                                                          121
+2025-06                                                                                                                                                                                                                                                          71
+
+(25 rows affected)
+
+category_name                                      positive    negative
+-------------------------------------------------- ----------- -----------
+Mobile Phones                                      0           0
+Men's Clothing                                     0           0
+Laptops & Accessories                              0           0
+Books & Stationery                                 0           0
+Kitchen & Dining                                   0           0
+Home Appliances                                    0           0
+Toys & Baby Products                               0           0
+Groceries                                          0           0
+Women's Clothing                                   0           0
+Beauty & Personal Care                             0           0
+
+(10 rows affected)
+
+product_name                                       repeat_customers
+-------------------------------------------------- ----------------
+Aliquam Product                                    160
+Ea Product                                         154
+Occaecati Product                                  165
+Itaque Product                                     132
+Explicabo Product                                  242
+Fugiat Product                                     157
+Nemo Product                                       199
+Officia Product                                    134
+Nobis Product                                      148
+Pariatur Product                                   151
+Excepturi Product                                  157
+Ducimus Product                                    87
+Error Product                                      178
+Consequatur Product                                101
+Voluptate Product                                  54
+Eligendi Product                                   153
+Placeat Product                                    225
+Consectetur Product                                109
+Corrupti Product                                   89
+Commodi Product                                    112
+Sed Product                                        108
+Vero Product                                       130
+Autem Product                                      115
+Quod Product                                       124
+Vel Product                                        106
+Rem Product                                        156
+Nesciunt Product                                   109
+Neque Product                                      146
+Temporibus Product                                 149
+Porro Product                                      107
+Dolorem Product                                    146
+Numquam Product                                    151
+Exercitationem Product                             103
+Corporis Product                                   165
+Id Product                                         188
+Nihil Product                                      178
+Quo Product                                        159
+Perspiciatis Product                               113
+Eum Product                                        128
+Odit Product                                       97
+Blanditiis Product                                 71
+Modi Product                                       130
+Esse Product                                       169
+Tempore Product                                    159
+Molestiae Product                                  75
+Doloremque Product                                 196
+Rerum Product                                      181
+Maiores Product                                    91
+Asperiores Product                                 103
+Aut Product                                        99
+Dignissimos Product                                192
+Amet Product                                       180
+Cum Product                                        133
+Iste Product                                       54
+Necessitatibus Product                             164
+Expedita Product                                   86
+Earum Product                                      96
+Nostrum Product                                    230
+Illum Product                                      95
+Sunt Product                                       164
+Ipsum Product                                      132
+Soluta Product                                     158
+Assumenda Product                                  124
+Debitis Product                                    163
+Animi Product                                      102
+Optio Product                                      151
+Repellat Product                                   92
+Beatae Product                                     29
+Recusandae Product                                 188
+Voluptatem Product                                 164
+Odio Product                                       166
+Ipsam Product                                      196
+Ipsa Product                                       137
+Distinctio Product                                 166
+Nulla Product                                      97
+Magni Product                                      118
+Possimus Product                                   174
+Eius Product                                       141
+Deleniti Product                                   73
+Dolor Product                                      180
+Dicta Product                                      232
+Quaerat Product                                    92
+Saepe Product                                      148
+Mollitia Product                                   142
+Delectus Product                                   148
+Quos Product                                       238
+Repellendus Product                                150
+A Product                                          89
+Reprehenderit Product                              85
+Fugit Product                                      144
+Unde Product                                       149
+Quia Product                                       173
+Officiis Product                                   158
+Quidem Product                                     173
+Facere Product                                     165
+Atque Product                                      73
+Et Product                                         80
+Quis Product                                       103
+Illo Product                                       139
+Vitae Product                                      74
+Minus Product                                      59
+Est Product                                        191
+Laboriosam Product                                 58
+Ab Product                                         121
+Quas Product                                       86
+Culpa Product                                      90
+Voluptates Product                                 139
+Laborum Product                                    174
+Similique Product                                  208
+Aspernatur Product                                 187
+Deserunt Product                                   80
+Iusto Product                                      71
+Laudantium Product                                 160
+Suscipit Product                                   103
+Quae Product                                       232
+Adipisci Product                                   138
+Dolorum Product                                    51
+Quisquam Product                                   152
+Libero Product                                     143
+Qui Product                                        188
+Aliquid Product                                    210
+Dolore Product                                     107
+Nam Product                                        97
+Ratione Product                                    151
+Provident Product                                  149
+Voluptas Product                                   130
+Incidunt Product                                   95
+Ut Product                                         104
+Nisi Product                                       97
+Inventore Product                                  164
+Voluptatibus Product                               116
+Tempora Product                                    136
+Eaque Product                                      151
+Omnis Product                                      126
+Hic Product                                        190
+Cupiditate Product                                 149
+Sit Product                                        97
+Alias Product                                      125
+Sint Product                                       130
+Praesentium Product                                111
+Enim Product                                       97
+Aperiam Product                                    147
+Eveniet Product                                    83
+Minima Product                                     138
+Ullam Product                                      134
+Reiciendis Product                                 111
+Accusamus Product                                  135
+Ad Product                                         142
+Quasi Product                                      86
+Consequuntur Product                               101
+Accusantium Product                                165
+Sequi Product                                      164
+Facilis Product                                    182
+Tenetur Product                                    153
+Natus Product                                      110
+Quibusdam Product                                  119
+Maxime Product                                     56
+Eos Product                                        168
+Sapiente Product                                   131
+Veniam Product                                     125
+Fuga Product                                       204
+Doloribus Product                                  138
+Architecto Product                                 85
+Perferendis Product                                172
+Molestias Product                                  128
+Veritatis Product                                  93
+In Product                                         106
+Impedit Product                                    102
+Voluptatum Product                                 110
+Iure Product                                       123
+Non Product                                        150
+Ex Product                                         178
+Totam Product                                      162
+Magnam Product                                     138
+Quam Product                                       230
+Repudiandae Product                                109
+Velit Product                                      76
+Cumque Product                                     165
+Dolores Product                                    103
+Harum Product                                      96
+At Product                                         134
+Labore Product                                     63
+
+(182 rows affected)
+
+product_name                                       avg_rating  return_count
+-------------------------------------------------- ----------- ------------
+Ea Product                                         3           1
+Aliquam Product                                    3           7
+Itaque Product                                     3           9
+Explicabo Product                                  2           7
+Nemo Product                                       2           8
+Officia Product                                    2           3
+Nobis Product                                      3           4
+Pariatur Product                                   2           6
+Excepturi Product                                  3           7
+Ducimus Product                                    3           2
+Error Product                                      3           5
+Voluptate Product                                  1           1
+Eligendi Product                                   2           1
+Placeat Product                                    3           2
+Corrupti Product                                   3           4
+Consectetur Product                                2           3
+Commodi Product                                    2           1
+Sed Product                                        3           6
+Autem Product                                      3           8
+Vero Product                                       2           3
+Quod Product                                       2           7
+Vel Product                                        3           2
+Rem Product                                        3           3
+Neque Product                                      2           8
+Temporibus Product                                 2           1
+Porro Product                                      3           6
+Exercitationem Product                             2           4
+Corporis Product                                   3           4
+Nihil Product                                      3           1
+Quo Product                                        3           2
+Perspiciatis Product                               2           9
+Eum Product                                        2           9
+Odit Product                                       3           2
+Blanditiis Product                                 3           1
+Modi Product                                       2           5
+Esse Product                                       2           3
+Tempore Product                                    3           5
+Doloremque Product                                 3           8
+Rerum Product                                      3           4
+Asperiores Product                                 4           2
+Maiores Product                                    2           3
+Aut Product                                        3           1
+Dignissimos Product                                3           6
+Amet Product                                       2           3
+Cum Product                                        2           9
+Iste Product                                       3           3
+Necessitatibus Product                             2           8
+Expedita Product                                   2           9
+Earum Product                                      2           1
+Ipsum Product                                      3           10
+Soluta Product                                     2           12
+Assumenda Product                                  2           1
+Debitis Product                                    3           8
+Animi Product                                      3           4
+Optio Product                                      3           12
+Repellat Product                                   2           4
+Beatae Product                                     3           1
+Voluptatem Product                                 3           3
+Recusandae Product                                 2           4
+Odio Product                                       3           6
+Ipsa Product                                       2           3
+Ipsam Product                                      3           10
+Distinctio Product                                 3           3
+Nulla Product                                      2           3
+Eius Product                                       3           3
+Possimus Product                                   2           3
+Deleniti Product                                   2           3
+Dolor Product                                      3           9
+Dicta Product                                      2           12
+Quaerat Product                                    2           8
+Mollitia Product                                   3           6
+Saepe Product                                      2           2
+Delectus Product                                   3           3
+Quos Product                                       3           25
+Repellendus Product                                3           7
+A Product                                          3           7
+Reprehenderit Product                              1           4
+Fugit Product                                      3           1
+Unde Product                                       3           4
+Quia Product                                       2           9
+Quidem Product                                     3           15
+Officiis Product                                   3           17
+Facere Product                                     3           8
+Et Product                                         3           6
+Illo Product                                       3           1
+Quis Product                                       3           4
+Vitae Product                                      2           4
+Minus Product                                      2           4
+Est Product                                        3           8
+Ab Product                                         3           6
+Culpa Product                                      2           1
+Voluptates Product                                 2           5
+Laborum Product                                    3           5
+Similique Product                                  3           5
+Aspernatur Product                                 3           3
+Deserunt Product                                   2           2
+Iusto Product                                      2           2
+Laudantium Product                                 2           1
+Suscipit Product                                   3           1
+Dolorum Product                                    3           4
+Quae Product                                       3           8
+Adipisci Product                                   2           3
+Quisquam Product                                   2           3
+Libero Product                                     2           3
+Aliquid Product                                    2           6
+Qui Product                                        2           10
+Nam Product                                        2           4
+Dolore Product                                     2           11
+Ratione Product                                    3           7
+Provident Product                                  2           7
+Nisi Product                                       3           5
+Ut Product                                         2           2
+Incidunt Product                                   2           2
+Inventore Product                                  2           4
+Voluptatibus Product                               3           6
+Tempora Product                                    2           2
+Omnis Product                                      2           4
+Hic Product                                        2           4
+Cupiditate Product                                 3           12
+Alias Product                                      2           5
+Sit Product                                        3           5
+Praesentium Product                                2           2
+Sint Product                                       2           1
+Aperiam Product                                    2           3
+Enim Product                                       3           2
+Eveniet Product                                    3           3
+Ullam Product                                      2           2
+Reiciendis Product                                 2           3
+Ad Product                                         2           4
+Quasi Product                                      2           2
+Sequi Product                                      2           4
+Facilis Product                                    3           18
+Natus Product                                      2           1
+Quibusdam Product                                  2           1
+Eos Product                                        2           8
+Sapiente Product                                   3           4
+Doloribus Product                                  2           16
+Fuga Product                                       3           5
+Veniam Product                                     2           6
+Perferendis Product                                3           8
+Molestias Product                                  3           7
+Veritatis Product                                  3           7
+In Product                                         3           3
+Voluptatum Product                                 2           1
+Non Product                                        3           1
+Ex Product                                         3           8
+Totam Product                                      2           3
+Quam Product                                       2           8
+Magnam Product                                     2           4
+Repudiandae Product                                3           5
+Velit Product                                      3           2
+Dolores Product                                    3           2
+Cumque Product                                     3           4
+Harum Product                                      3           2
+Labore Product                                     3           6
+Warning: Null value is eliminated by an aggregate or other SET operation.
+
+(155 rows affected)
+
+
+Completion time: 2025-06-20T22:53:33.5069166+05:30

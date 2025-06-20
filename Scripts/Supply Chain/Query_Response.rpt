@@ -1,0 +1,717 @@
+﻿region_name                                        avg_delivery_days
+-------------------------------------------------- -----------------
+North                                              192
+East                                               187
+Central                                            179
+South                                              189
+West                                               188
+
+(5 rows affected)
+
+region_name                                        return_rate
+-------------------------------------------------- ---------------------------------------
+Central                                            1.046728971962
+East                                               1.039603960396
+North                                              1.055555555555
+South                                              1.010638297872
+West                                               1.045454545454
+
+(5 rows affected)
+
+seller_id   seller_name                                        avg_fulfillment_days
+----------- -------------------------------------------------- --------------------
+261         Mani-Pall                                          14
+355         Dey-Sood                                           40
+238         Puri Inc                                           -33
+23          Sandhu-Agarwal                                     31
+215         Raman Inc                                          77
+378         Pradhan Ltd                                        51
+46          Lall, Sethi and Choudhury                          -21
+401         Sha, Zacharia and Dada                             20
+69          Tella-Dash                                         4
+192         Toor-Rattan                                        23
+92          Dua, Lata and Wason                                -35
+430         Grover-Swaminathan                                 -112
+115         Patil, Yogi and Naik                               17
+138         Bhavsar, Kara and Sarin                            89
+209         Peri-Sinha                                         -17
+384         Varghese Group                                     5
+161         Gour PLC                                           43
+284         Dubey-Mohanty                                      -13
+407         Karnik LLC                                         -11
+361         Shan, Lal and Karnik                               -46
+232         Kalla, Hayer and Bali                              11
+29          Borah-Garde                                        33
+315         Gera Inc                                           41
+278         Rajagopalan-Ramaswamy                              0
+175         Nayak, Tank and Bath                               26
+169         Murty Inc                                          34
+424         Nayak LLC                                          54
+324         Joshi Inc                                          -26
+470         Datta LLC                                          -17
+221         Guha-Wadhwa                                        -46
+75          Saha Inc                                           10
+344         Singh LLC                                          -8
+201         Nagy, Bhalla and Aurora                            21
+132         Issac-Lal                                          -38
+464         Mangal, Radhakrishnan and Choudhary                43
+438         Uppal Ltd                                          12
+487         Naidu PLC                                          -58
+15          Golla, Kara and Kumar                              0
+181         Khanna-Chawla                                      18
+9           Kanda-Mand                                         -40
+158         Ghose, Narang and Bhagat                           -28
+458         Bedi-Butala                                        -23
+481         Chacko-Ramanathan                                  26
+338         Chad, Sahota and Mangat                            -33
+89          Narayan and Sons                                   60
+195         Balakrishnan-Roy                                   78
+244         Mangat-Mukherjee                                   4
+301         Bava LLC                                           28
+387         Manda Group                                        6
+3           Kata LLC                                           67
+252         Iyer-Hari                                          95
+152         Kale and Sons                                      28
+146         Setty, Bhatnagar and Kala                          15
+52          Kaul Ltd                                           6
+295         Bajwa, Minhas and Randhawa                         49
+444         Varma LLC                                          24
+493         Maharaj, Date and Jayaraman                        -35
+427         Apte Inc                                           -24
+95          Mahajan, Chandra and Chatterjee                    -69
+72          Sandhu, Bhagat and Hari                            46
+189         Vora, Trivedi and Roy                              -76
+404         Chakraborty-Shetty                                 -14
+473         Pradhan-Bobal                                      20
+118         Chada-Viswanathan                                  18
+450         Acharya-Sundaram                                   31
+258         Banerjee, Chatterjee and Gole                      16
+264         Mander PLC                                         -33
+335         Karnik LLC                                         -33
+281         Trivedi LLC                                        -11
+381         Nagy, Char and Nagar                               37
+212         Sem and Sons                                       -38
+358         Grewal-Vala                                        22
+235         Thakkar, Upadhyay and Sampath                      -58
+421         Anne and Sons                                      -131
+172         Narayan-Chauhan                                    -1
+410         Parmer-Chad                                        12
+66          Grewal Ltd                                         -2
+78          Patel, Om and Tripathi                             -13
+218         Bawa, Doshi and Vyas                               81
+375         Dugar Inc                                          26
+229         Karan, Baral and Sengupta                          23
+327         Bath-Patla                                         -17
+32          Narain, Basak and Narang                           -10
+364         Andra-Baral                                        -16
+318         Seth Inc                                           43
+275         Vyas-Bhagat                                        181
+467         Chaudhari LLC                                      -26
+126         Wali-Tank                                          30
+321         Ben Ltd                                            34
+272         Panchal, Date and Kapur                            -40
+26          Kadakia PLC                                        62
+12          Parekh PLC                                         -38
+178         Shere LLC                                          70
+367         Banik, Palan and Bhatia                            -29
+35          Bhandari, Kota and Varughese                       32
+390         Natarajan-Basu                                     13
+129         Grewal, Boase and Ahluwalia                        -31
+461         Sathe, Bhatt and Khosla                            52
+155         Guha, Bali and Rastogi                             49
+106         Chakraborty LLC                                    -90
+86          Samra, Narayanan and Dasgupta                      0
+484         Dora-Trivedi                                       59
+135         Hari-Bose                                          17
+112         Parmer-Kaur                                        7
+63          Parekh, Jhaveri and Zacharia                       52
+255         Dash Inc                                           -25
+6           Raju, Mangat and Ratta                             -78
+398         Varty-Sane                                         -13
+55          Ray, Balakrishnan and Devi                         1
+43          Suresh and Sons                                    24
+304         Atwal, Ramanathan and Wable                        12
+241         Singh-Parmer                                       -39
+98          Brahmbhatt-Shenoy                                  75
+341         Shetty-Grover                                      -102
+347         Anne Inc                                           36
+441         Sidhu, Rai and Verma                               40
+490         D’Alia-Prabhu                                      -72
+447         Dugar, Vyas and Guha                               -42
+49          Chaudhari-Panchal                                  80
+298         Badami, Tailor and Dutt                            74
+198         Ravel, Divan and Pathak                            -45
+149         Iyengar-Nath                                       65
+190         Patla Ltd                                          33
+213         Aurora-Sridhar                                     -35
+144         Trivedi, Bath and Goyal                            0
+476         Rama, Amble and Lad                                -98
+167         Dash Inc                                           -14
+499         Amble, Gulati and Raju                             27
+353         Upadhyay Group                                     -33
+359         Sen, Raghavan and Shankar                          -101
+330         Patil, Pillay and Prabhakar                        -50
+453         Kumer LLC                                          25
+336         Chopra Group                                       -77
+307         Baria, Hari and Babu                               -14
+405         Bhatt, Sodhi and Sahota                            -67
+236         Shetty-Rai                                         24
+259         Khosla-Chana                                       -29
+382         Palla-Raghavan                                     35
+184         Shenoy-Mital                                       26
+267         Agrawal, Chandra and Goda                          24
+422         Kashyap, Zachariah and Lal                         90
+230         Khare-Gola                                         -17
+313         Nayar, Sen and Varma                               5
+67          Saini, Sur and Chacko                              -49
+376         Kumar-Bhavsar                                      -29
+276         Magar-Bhandari                                     -98
+21          Pingle, Ahluwalia and Bhat                         -111
+27          Bhakta-Rai                                         -43
+121         Dasgupta, Saraf and Sha                            -11
+127         Nayar PLC                                          19
+319         Hegde, Wason and Manda                             31
+322         Sampath Inc                                        33
+468         Swamy Group                                        -35
+370         Singh Group                                        17
+173         Gala Inc                                           -49
+273         Chatterjee-Devan                                   35
+107         Cherian-Trivedi                                    71
+250         Ratta, Randhawa and Chhabra                        -13
+485         Dixit-Sinha                                        -20
+58          Dave, Modi and Mitra                               31
+156         Chaudry-Kumar                                      -30
+130         Narula, Swamy and Palla                            60
+462         Balasubramanian-Parekh                             -13
+81          Bahri-Ghosh                                        -14
+413         Maharaj, Dube and Zachariah                        3
+436         Rana PLC                                           -17
+64          Acharya and Sons                                   23
+87          Suri LLC                                           -29
+38          Sundaram-Srivastava                                54
+350         Shenoy PLC                                         1
+101         Rajagopal-Solanki                                  67
+207         Srinivasan, Tiwari and Saxena                      19
+256         Dutt, Desai and Kade                               7
+399         Barad-Mann                                         67
+44          Garg, Barad and Divan                              28
+7           Choudhry, Dugar and Bhavsar                        -59
+193         Mand and Sons                                      -41
+442         Kar Inc                                            -36
+342         Edwin Group                                        -11
+293         Balay, More and Raman                              80
+299         Chaudhary-Talwar                                   -45
+393         Singhal, Rama and Ramachandran                     20
+150         Raj-Patla                                          -6
+1           Divan-Ravel                                        66
+50          Jani-Shankar                                       -7
+356         Mahajan, Bahri and Buch                            44
+24          Wagle-Bora                                         -33
+379         Kurian Inc                                         -17
+47          Ramesh Group                                       -22
+239         Agarwal-Goswami                                    27
+70          Gera-Pandya                                        -62
+141         Ganesan-Sood                                       -20
+402         Padmanabhan, Sachdev and Sarma                     21
+93          Garde Group                                        -38
+216         Venkataraman-Garde                                 70
+187         Mangal, Bhatia and Mukhopadhyay                    10
+164         Balasubramanian Ltd                                -24
+287         Samra LLC                                          19
+310         Bose Group                                         29
+479         Chakrabarti Group                                  24
+233         Dave Group                                         -40
+210         Bora, Mani and Yogi                                -15
+456         Bava-Mittal                                        18
+333         Mukhopadhyay, Chauhan and Rajagopalan              32
+362         Halder, Nayak and Din                              37
+279         Toor, Shah and Kota                                -10
+30          Kothari, Pandya and Raghavan                       -5
+18          Kata and Sons                                      -21
+373         Doshi, Koshy and Raghavan                          -45
+316         Nazareth, Arya and Rai                             -47
+270         Batra Inc                                          0
+176         Keer, Bajwa and Venkataraman                       0
+170         Barman PLC                                         67
+465         Thakkar, Raman and Mandal                          6
+224         Dube, Hegde and Palla                              40
+419         Vig Ltd                                            -66
+439         Chakraborty-Munshi                                 82
+416         Krishnan Ltd                                       -22
+84          Patel, Borra and Konda                             -48
+488         Vasa-Trivedi                                       -63
+153         Tiwari, Patla and Balan                            96
+227         Gour LLC                                           42
+204         Bath and Sons                                      -7
+110         Jha and Sons                                       55
+459         Butala-Tata                                        32
+10          Saran, Parmar and Loyal                            42
+133         Majumdar-Balan                                     -57
+61          Ramaswamy-Prabhu                                   -88
+482         Gade-Sami                                          40
+196         Vohra, Sehgal and Edwin                            -10
+433         Walla-Ganguly                                      -19
+445         Reddy-Majumdar                                     55
+90          Rastogi, Butala and Mahal                          -28
+41          Chowdhury-Handa                                    95
+253         Seth, Purohit and Konda                            15
+290         Bhalla Group                                       -33
+339         Rana-Deol                                          -22
+104         Mander, Brahmbhatt and Dass                        48
+496         Padmanabhan, Jha and Shetty                        31
+4           Bhargava-Biswas                                    -15
+396         Sarna-Raja                                         -29
+147         Shenoy and Sons                                    -81
+247         Palla Ltd                                          -36
+296         Date-Sharaf                                        33
+119         Narula PLC                                         71
+451         Gandhi Group                                       -20
+428         Verma Ltd                                          -24
+96          Mandal Ltd                                         33
+165         Chandran, Kothari and Krish                        0
+497         Khurana LLC                                        61
+142         Gole Ltd                                           -24
+474         Bansal Ltd                                         7
+288         Patel Ltd                                          -38
+211         Atwal, Taneja and Jain                             -30
+282         Dixit, Sagar and Mangal                            -13
+188         Virk, Nath and Wali                                71
+305         Mannan and Sons                                    122
+311         Krishnamurthy-Gaba                                 -6
+334         Chacko-Chhabra                                     26
+357         Sachdev, Pai and Bhalla                            17
+480         Krishnamurthy PLC                                  -29
+234         Ben-Chatterjee                                     -68
+125         Kumer-Buch                                         -28
+457         Kanda, Anand and Saraf                             19
+374         Mukhopadhyay-Bobal                                 -20
+219         Sagar, Kohli and Misra                             5
+65          Agate, Dar and Sant                                -42
+328         Prakash, Sethi and Swaminathan                     20
+79          Bhalla, Lad and Singhal                            -17
+411         Shenoy, Goswami and Badami                         39
+19          Shan-Rajagopalan                                   -4
+265         Mannan, Bedi and Balasubramanian                   31
+365         Setty-Sem                                          11
+317         Mall, Banik and Sood                               2
+171         Balakrishnan-Varma                                 71
+73          Shan Inc                                           -18
+420         Dewan Group                                        8
+271         Das, Mukhopadhyay and Dhar                         43
+25          Pandit and Sons                                    -2
+368         Kohli Ltd                                          77
+36          Kalita Ltd                                         46
+440         Kant Group                                         -28
+391         Panchal-Saran                                      44
+179         Karan-Dhillon                                      6
+105         Randhawa, Pant and Wason                           52
+228         Rattan-Keer                                        20
+205         Sandhu LLC                                         -15
+460         Batta PLC                                          -41
+483         Deshmukh Inc                                       -27
+85          Issac, Chandran and More                           -40
+13          Dutta, Char and Choudhry                           23
+136         Ravi-Sengupta                                      -64
+62          Suresh, Garg and Srinivasan                        66
+291         Banik, Talwar and Gera                             14
+42          Parikh LLC                                         -16
+385         Kulkarni-Gaba                                      -16
+397         Patla Group                                        -6
+254         Lala Ltd                                           0
+242         Doctor-Bhandari                                    63
+5           Walia-Cherian                                      55
+56          Vasa Group                                         -41
+199         Doctor LLC                                         19
+448         Palla and Sons                                     87
+491         Gokhale and Sons                                   13
+248         Shetty, Dayal and Dube                             -27
+99          Uppal-Mani                                         14
+148         Manne LLC                                          71
+285         Doctor-Savant                                      -138
+262         Chander, Mander and Shan                           -37
+500         Pillai-Pandit                                      -3
+168         Chada LLC                                          -63
+191         Sarma-Yogi                                         -60
+116         Pall Ltd                                           -10
+377         Dara PLC                                           14
+454         Kapur LLC                                          32
+477         Shan Ltd                                           23
+354         Srivastava, Bandi and Modi                         -1
+139         Dasgupta, Bandi and Kannan                         -48
+162         Patil, Dubey and Baria                             -30
+408         Parekh, Balay and Raval                            -38
+331         Parikh-Kalla                                       -49
+308         Sabharwal, Bedi and Gara                           -38
+185         Kata PLC                                           1
+431         Vaidya-Mall                                        -60
+231         Apte PLC                                           -80
+268         Vasa PLC                                           49
+325         Rau PLC                                            30
+314         Bajwa, Balay and Sagar                             -39
+128         Maharaj, Iyengar and Rai                           -67
+371         Menon Ltd                                          -9
+122         Patla, Rai and Keer                                35
+22          Bansal-Chaudhary                                   -31
+471         Kibe-Taneja                                        -27
+417         Wali and Sons                                      -20
+76          Bhakta PLC                                         -14
+222         Ratta, Ahluwalia and Grewal                        63
+463         Sarkar Group                                       -55
+202         Madan LLC                                          29
+108         Dara-Subramaniam                                   -42
+59          Kapur and Sons                                     -20
+274         Prabhu and Sons                                    -69
+225         Dani-Kohli                                         10
+414         Tandon-Lalla                                       215
+251         Sahni Group                                        -31
+82          Rama-Ramachandran                                  52
+437         Chawla, Grover and Ahluwalia                       20
+33          Date PLC                                           -16
+39          Vohra Group                                        -17
+182         Gole-Kadakia                                       -90
+16          Edwin-Dhawan                                       5
+88          Raja-Baral                                         28
+159         Bhavsar-Nagarajan                                  36
+208         Sama, Kaur and Agate                               -77
+102         Bajwa-Modi                                         -61
+53          Mangal, Goswami and Bumb                           -11
+337         Khanna and Sons                                    -8
+351         Kata, Korpal and Kapadia                           -16
+302         Saini LLC                                          -83
+388         Kalla, Mahajan and Gola                            -49
+400         Krishnamurthy Inc                                  13
+45          Wali, Madan and Dutta                              0
+145         Apte Inc                                           34
+2           Nagy-Sankaran                                      23
+245         Narain and Sons                                    20
+494         Devan and Sons                                     -73
+345         Narang-Walla                                       10
+394         Boase Group                                        3
+48          Mani Group                                         -13
+309         Sane and Sons                                      -22
+380         Deshpande-Chaudhary                                -9
+286         Mahajan Inc                                        30
+71          Yadav PLC                                          67
+403         Prakash PLC                                        -13
+426         Joshi Inc                                          11
+94          Nayak Group                                        28
+263         Nair PLC                                           -73
+449         Koshy Ltd                                          -59
+240         Zachariah, Garg and Sama                           49
+117         Anne, Issac and Kata                               12
+140         Chacko Inc                                         -31
+478         Atwal, Sura and Chauhan                            -74
+163         Deo-Rajagopalan                                    -22
+432         Shan, Swaminathan and Date                         24
+257         Issac-Gulati                                       -16
+186         Dube-Pau                                           28
+455         Tailor Inc                                         -48
+332         Thakkar-Agrawal                                    -6
+280         Kadakia Group                                      -66
+409         Bala-Dasgupta                                      -8
+77          Bahl Ltd                                           -80
+17          Rau Group                                          34
+31          Dhaliwal-Srinivasan                                -42
+326         Sabharwal-Manne                                    -8
+363         Murthy, Bhatt and Tak                              64
+466         Sharma, Saraf and Vig                              -51
+472         Ray-Nagi                                           -53
+223         Thaman-Krish                                       -77
+217         Bava, Devi and Sant                                -36
+372         Shan, Badal and Buch                               -38
+269         Prashad Inc                                        -58
+123         Kara LLC                                           59
+297         Gopal, Sama and Gala                               -34
+226         Saha PLC                                           -20
+60          Kohli, Dass and Ganesh                             -14
+83          Mutti, Sahni and Batta                             138
+415         Sabharwal-Saini                                    -2
+177         Merchant, Sarma and Shankar                        7
+154         Dalal, Devan and Mangal                            -40
+203         Korpal-Vaidya                                      52
+34          Shah Ltd                                           -54
+40          Munshi Group                                       -43
+183         Bhasin, Madan and Sha                              12
+11          Modi-Boase                                         -1
+160         Sachdev, Choudhry and Balakrishnan                 -20
+111         Chaudhry-Taneja                                    15
+54          Sama-Madan                                         -10
+303         Venkataraman-Shah                                  -9
+103         Toor Inc                                           -52
+340         Dada, Keer and Sani                                -54
+91          Sangha and Sons                                    -31
+352         Choudhary, Bala and Bora                           -11
+289         Kannan-Lata                                        -26
+395         Mann LLC                                           -44
+389         Kaur LLC                                           -32
+495         Edwin Ltd                                          27
+489         Suresh-Wagle                                       12
+346         Bhandari PLC                                       -24
+97          Ravel, Prasad and Chahal                           21
+197         Shan-Mallick                                       55
+246         Mitra-Gole                                         -59
+214         Roy, Shankar and Om                                78
+143         Datta and Sons                                     -33
+475         Wadhwa-Morar                                       53
+120         Pandya-Golla                                       26
+452         Buch-Lal                                           -9
+237         Chakrabarti, Goyal and Edwin                       -4
+498         Sule, Goda and Varkey                              -16
+166         Oza, Goswami and Seshadri                          -39
+312         Sur, Jaggi and Kalla                               40
+306         Sharaf-Chaudhuri                                   -26
+329         Bandi-Mitter                                       96
+360         Seshadri, Chana and Kunda                          19
+260         Krishna-Mitra                                      -51
+429         Walia and Sons                                     14
+283         Ahuja, Murthy and Balay                            30
+406         Iyer-Sani                                          -61
+220         Bhat-Lala                                          6
+469         Gupta Ltd                                          16
+114         Natt LLC                                           -36
+20          Purohit Inc                                        -40
+423         Rajan Inc                                          2
+266         Choudhary-Bhatia                                   -31
+68          Bhandari-Oommen                                    -45
+412         Narula Ltd                                         -15
+80          Som and Sons                                       30
+277         Lad-Dutta                                          32
+366         Tiwari Inc                                         -70
+28          Merchant Group                                     -23
+323         Butala, Amble and Yohannan                         23
+174         Sarin-Chaudhry                                     -3
+369         Bali-Manne                                         -21
+320         Sengupta, Sarkar and Chhabra                       55
+74          Kothari and Sons                                   -32
+131         Bhatnagar-Wagle                                    -60
+392         Parikh-Sarma                                       -13
+249         Deshpande, Morar and Suresh                        -71
+180         Mitter, Pant and Bala                              -34
+486         Sahni, Ghose and Dada                              -16
+57          Vyas PLC                                           -79
+206         Chauhan, Bal and Setty                             -37
+157         Gala, Dhar and Goyal                               -10
+14          Joshi-Rao                                          31
+37          Vaidya, Sood and Grover                            18
+386         Brar, Nayak and Morar                              9
+137         Wali LLC                                           19
+243         Balakrishnan, Padmanabhan and Modi                 12
+349         Shukla-Thaker                                      -15
+435         Dara-Natarajan                                     25
+8           Babu and Sons                                      33
+300         Sehgal LLC                                         26
+51          Menon Inc                                          -68
+151         Ramesh, Srinivasan and Gour                        -23
+194         Nazareth-Subramanian                               16
+200         Kala LLC                                           41
+343         Vasa Group                                         0
+100         Shukla-Shroff                                      27
+492         Loyal, Aurora and Sami                             -19
+443         Upadhyay-Prashad                                   -7
+
+(488 rows affected)
+
+category_name                                      low_stock_count
+-------------------------------------------------- ---------------
+Beauty & Personal Care                             6
+Books & Stationery                                 3
+Men's Clothing                                     3
+Mobile Phones                                      2
+Toys & Baby Products                               2
+Home Appliances                                    2
+Kitchen & Dining                                   2
+Laptops & Accessories                              1
+Groceries                                          1
+Women's Clothing                                   1
+
+(10 rows affected)
+
+product_name                                       avg_lead_time
+-------------------------------------------------- -------------
+Beatae Product                                     91
+Molestiae Product                                  75
+Veritatis Product                                  74
+Quibusdam Product                                  73
+Reiciendis Product                                 72
+Et Product                                         72
+Cupiditate Product                                 72
+A Product                                          71
+Tempore Product                                    71
+Dignissimos Product                                70
+Doloremque Product                                 69
+Perspiciatis Product                               69
+Possimus Product                                   69
+Quis Product                                       69
+Totam Product                                      69
+Sapiente Product                                   69
+Culpa Product                                      67
+Adipisci Product                                   67
+Voluptate Product                                  67
+Pariatur Product                                   66
+Numquam Product                                    66
+Esse Product                                       66
+Odio Product                                       66
+Ipsa Product                                       66
+Sit Product                                        66
+Dolores Product                                    66
+Iure Product                                       65
+Nulla Product                                      65
+Omnis Product                                      65
+Rem Product                                        65
+Vero Product                                       64
+Officia Product                                    64
+Soluta Product                                     64
+Aut Product                                        64
+Cum Product                                        64
+Inventore Product                                  64
+Voluptas Product                                   64
+Dolor Product                                      64
+Quae Product                                       63
+Aspernatur Product                                 63
+Neque Product                                      63
+Ex Product                                         63
+Enim Product                                       62
+Minima Product                                     62
+Commodi Product                                    62
+Rerum Product                                      62
+Blanditiis Product                                 62
+Nam Product                                        62
+Ratione Product                                    62
+Voluptatibus Product                               62
+Alias Product                                      62
+Officiis Product                                   62
+Quos Product                                       61
+Distinctio Product                                 61
+Eius Product                                       61
+Magni Product                                      61
+Debitis Product                                    61
+Nostrum Product                                    60
+Eaque Product                                      60
+Nisi Product                                       60
+Laborum Product                                    60
+Quisquam Product                                   60
+Velit Product                                      60
+Harum Product                                      60
+Cumque Product                                     60
+Non Product                                        59
+Doloribus Product                                  59
+Libero Product                                     59
+Atque Product                                      59
+Vitae Product                                      59
+Corrupti Product                                   59
+Explicabo Product                                  58
+Nobis Product                                      58
+Ipsam Product                                      58
+Ab Product                                         58
+Quidem Product                                     58
+Facere Product                                     58
+Mollitia Product                                   58
+Saepe Product                                      58
+Aliquid Product                                    58
+Dolorum Product                                    58
+Laudantium Product                                 58
+Impedit Product                                    58
+Consequuntur Product                               58
+Eveniet Product                                    57
+Voluptatum Product                                 57
+Quam Product                                       57
+Veniam Product                                     57
+Animi Product                                      57
+Illum Product                                      57
+Nihil Product                                      57
+Nesciunt Product                                   57
+Fugiat Product                                     56
+Excepturi Product                                  56
+Earum Product                                      56
+Quia Product                                       56
+Aperiam Product                                    56
+Quasi Product                                      56
+Architecto Product                                 55
+Natus Product                                      55
+Repudiandae Product                                55
+Temporibus Product                                 55
+Asperiores Product                                 55
+Sunt Product                                       55
+Recusandae Product                                 55
+Voluptatem Product                                 55
+Maiores Product                                    54
+Modi Product                                       54
+Aliquam Product                                    54
+Illo Product                                       54
+Minus Product                                      54
+Accusantium Product                                54
+Facilis Product                                    53
+Delectus Product                                   53
+Incidunt Product                                   53
+Dolore Product                                     53
+Nemo Product                                       53
+Quo Product                                        53
+Repellat Product                                   53
+Optio Product                                      53
+Placeat Product                                    52
+Iusto Product                                      52
+Repellendus Product                                52
+Fuga Product                                       52
+Tenetur Product                                    51
+Dicta Product                                      51
+Reprehenderit Product                              51
+Fugit Product                                      51
+Hic Product                                        51
+Corporis Product                                   51
+Amet Product                                       51
+Assumenda Product                                  50
+Porro Product                                      50
+Qui Product                                        50
+Sequi Product                                      50
+At Product                                         50
+Deserunt Product                                   49
+Quaerat Product                                    49
+Consectetur Product                                49
+Iste Product                                       49
+Eum Product                                        49
+Vel Product                                        48
+Ducimus Product                                    48
+Consequatur Product                                48
+Ut Product                                         48
+Praesentium Product                                48
+Eos Product                                        48
+Deleniti Product                                   47
+Occaecati Product                                  47
+Autem Product                                      47
+Id Product                                         47
+Necessitatibus Product                             47
+Expedita Product                                   47
+Est Product                                        46
+Tempora Product                                    46
+Similique Product                                  46
+Perferendis Product                                46
+Labore Product                                     46
+Magnam Product                                     45
+Accusamus Product                                  45
+Sint Product                                       45
+Provident Product                                  45
+Dolorem Product                                    45
+Quod Product                                       44
+Odit Product                                       44
+Unde Product                                       44
+Quas Product                                       43
+Error Product                                      43
+Suscipit Product                                   42
+Molestias Product                                  42
+In Product                                         41
+Eligendi Product                                   41
+Itaque Product                                     41
+Ipsum Product                                      41
+Laboriosam Product                                 40
+Ullam Product                                      40
+Ea Product                                         39
+Ad Product                                         38
+Sed Product                                        37
+Voluptates Product                                 37
+Maxime Product                                     28
+Exercitationem Product                             27
+
+(182 rows affected)
+
+
+Completion time: 2025-06-20T23:05:02.9843610+05:30

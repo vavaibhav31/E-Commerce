@@ -1,0 +1,54 @@
+PROJECT SUMMARY: E-Commerce SQL Analytics (India-Centric)
+
+Project Overview:
+-----------------
+This project simulates a real-world Indian e-commerce business case. The primary objective was to perform complete business analytics solely using SQL. The project features a fully normalized database schema with 14 interrelated tables (Customers, Orders, Products, Sellers, etc.), populated with synthetic yet realistic, India-centric data.
+
+Key Focus Areas:
+----------------
+-  Financial Analysis (Revenue Trends, AOV, Net Profit)
+-  Product Analytics (Ratings, Reviews, Return Rates)
+-  Customer Churn & Retention (Inactive Users, Purchase Gaps)
+-  Marketing Campaign Effectiveness (ROI, AOV, Time to Order)
+-  Supply Chain & Fulfillment (Delivery Delays, Stockouts)
+-  Customer Experience (Sentiment Reviews, Support Issues)
+
+Tools Used:
+-----------
+- SQL Server Management Studio (SSMS)
+- Python (Faker library for data generation)
+- GitHub for portfolio and version control
+
+Challenges Faced:
+-----------------
+- Designing a schema that is both normalized and reflective of real-world complexity (14 tables with foreign keys and dependencies).
+- Generating high-volume India-specific data across regions, categories, and customer profiles.
+- Writing complex queries using CTEs, window functions, subqueries, and performance-oriented logic.
+- Handling NULLs and edge cases in review and returns analysis.
+- Creating meaningful metrics for stakeholders that go beyond raw numbers (e.g., churned high-value customers, net profit by region).
+- Ensuring all queries run efficiently on over 10,000 rows of data.
+
+What I Learned:
+---------------
+- Mastery of SQL constructs including: 
+  • Common Table Expressions (CTEs)
+  • Window Functions (RANK, LAG)
+  • Date & Text Functions
+  • JOIN Optimization and Filtering
+- Business thinking in SQL: focusing on KPIs, ROI, customer value, and retention patterns.
+- Structuring projects professionally for GitHub with folders like:
+  • `schema/` for table creation scripts & ERD
+  • `data/` for CSVs
+  • `scripts/` for queries and insights
+  • `summary/` for project notes like this one.
+- Writing clear, well-structured README and documenting advanced analytics logic.
+
+Next Steps:
+-----------
+- Add stored procedures or parameterized views to automate frequent insights.
+- Extend analysis with live data ingestion and periodic reporting.
+- Optional: Visual dashboard layer using tools like Power BI (kept out to maintain SQL-only focus).
+
+Conclusion:
+-----------
+This project is an end-to-end demonstration of SQL-only e-commerce analytics with a strong emphasis on real-world business insights. It showcases not just technical querying, but also stakeholder-ready reporting and clear project storytelling — entirely driven by SQL.
