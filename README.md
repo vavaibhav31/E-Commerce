@@ -52,7 +52,7 @@ This project simulates a real-world e-commerce analytics use case where SQL is u
 
 ### Entity Relationship Diagram
 
-![ER Diagram](schema/er_diagram.png)
+![ER Diagram](Schema/er_diagram.png)
 
 #  Tools & Technologies
 
