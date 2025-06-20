@@ -59,6 +59,7 @@ This project simulates a real-world e-commerce analytics use case where SQL is u
 - SQL Server Management Studio (SSMS)
 - Microsoft SQL Server 2019
 - Python
+- app.erasor.io
 - GitHub
 
 #  Key Stakeholder Insights
