@@ -1,4 +1,4 @@
-**Normalized E-Commerce Schema (14 Tables)**
+Normalized E-Commerce Schema (14 Tables)
 
 1. Regions
 Region_ID INT PRIMARY KEY,
